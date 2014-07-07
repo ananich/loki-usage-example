@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2003 Anton Ananich
+ */
+
+
 #include "stdafx.h"
 #include "./6.h"
 

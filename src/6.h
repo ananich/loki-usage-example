@@ -1,4 +1,7 @@
-#pragma once
+/*
+ * Copyright (c) 2003 Anton Ananich
+ */
+ #pragma once
 
 #include <Typelist.h>
 
